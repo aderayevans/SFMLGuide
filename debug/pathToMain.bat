@@ -1,0 +1,1 @@
+START "path" main.exe
